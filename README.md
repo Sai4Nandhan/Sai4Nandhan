@@ -1,17 +1,17 @@
-## 👋 Hi, This is Sai Nandhan
+## 👋 Hi, I'm Sai Nandhan
 
 **BTech CSE Student** | **Full Stack Developer** | **AI System Builder**
 
-I build **practical, scalable web applications** and **AI-driven systems** from scratch.
+I build practical, scalable web applications and AI-driven systems from scratch.
 
 
 ## 🚀 Tech Stack
 
-**Frontend:** React (Vite), Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**AI Integration:** OpenAI / GPT APIs  
-**Languages:** C++, JavaScript  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 ## 🔥 Key Project
@@ -21,8 +21,9 @@ I build **practical, scalable web applications** and **AI-driven systems** from 
 - PDF upload with AI-based Q&A  
 - Role-based login (Admin, Teacher, Student)  
 - Attendance management system  
+- GPT API integration  
 
-Built using React, Node.js, Express, MongoDB, and GPT APIs.
+Built using React, Node.js, Express, MongoDB, and OpenAI APIs.
 
 
 ## 🎯 Current Focus
@@ -32,17 +33,14 @@ Built using React, Node.js, Express, MongoDB, and GPT APIs.
 - DevOps fundamentals  
 - Building production-level systems  
 
-<!--
-**Sai4Nandhan/Sai4Nandhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📌 Pinned Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **EduGPT** – AI-powered college assistant platform  
+
+- More full-stack and AI experiments in repositories  
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/saimeghanandhan 
+- Email: sainandhan2212@gmail.com.com  

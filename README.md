@@ -4,7 +4,6 @@
 
 I build **practical, scalable web applications** and **AI-driven systems** from scratch.
 
----
 
 ## 🚀 Tech Stack
 
@@ -14,7 +13,6 @@ I build **practical, scalable web applications** and **AI-driven systems** from 
 **AI Integration:** OpenAI / GPT APIs  
 **Languages:** C++, JavaScript  
 
----
 
 ## 🔥 Key Project
 
@@ -26,7 +24,6 @@ I build **practical, scalable web applications** and **AI-driven systems** from 
 
 Built using React, Node.js, Express, MongoDB, and GPT APIs.
 
----
 
 ## 🎯 Current Focus
 

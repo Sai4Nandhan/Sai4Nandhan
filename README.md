@@ -5,7 +5,7 @@
 I build practical, scalable web applications and AI-driven systems from scratch.
 
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -13,7 +13,7 @@ I build practical, scalable web applications and AI-driven systems from scratch.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🔥 Key Project
+## Key Project
 
 ### EduGPT – AI College Assistant
 
@@ -39,7 +39,7 @@ Built using React, Node.js, Express, MongoDB, and OpenAI APIs.
 
 - More full-stack and AI experiments in repositories  
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/saimeghanandhan 
 - Email: sainandhan2212@gmail.com.com  
